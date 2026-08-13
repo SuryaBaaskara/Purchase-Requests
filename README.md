@@ -25,8 +25,8 @@ Frontend implementation of a Purchase Request application for outlet branches to
 ## Installation
 
 ```bash
-git clone https://github.com/SuryaBaaskara/purchase-request-technical-test.git
-cd purchase-request-technical-test
+git clone https://github.com/SuryaBaaskara/Purchase-Requests.git
+cd Purchase-Requests
 npm install
 npm run dev
 ```
